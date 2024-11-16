@@ -1,0 +1,12 @@
+{
+ "accurate":{
+      "code":"ZSUINj6fgkkYGjtyGZM3",
+      "database_id":"1360353",
+      "database_name":"PT SENTOSA MAJU BERSAMA",
+      "outlet_code":"LAMPUNG",
+      "station":"quinos-cashier",
+      "sync_item":"true",
+      "branch_name":"", 
+      "warehouse_name":"",
+  }
+}
